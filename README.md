@@ -1,7 +1,6 @@
 # Interactive yet Simple Banking Website 🏦
 
-Welcome to my engaging banking website! Explore smooth scrolling, captivating animations, and handy modal windows for seamless navigation and effortless money management. 💼💰
-
+Welcome to my engaging banking website! I have created this as my first static website using vanilla JavaScript. I applied elements such smooth scrolling, captivating animations, and handy modal windows for seamless navigation 💼💰.
 
 ## Table of Contents
 
